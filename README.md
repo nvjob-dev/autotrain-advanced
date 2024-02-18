@@ -9,7 +9,7 @@ AutoTrain Advanced: faster and easier training and deployments of state-of-the-a
 
 Documentation is available [here](https://hf.co/docs/autotrain/).
 
-
+https://www.youtube.com/watch?v=f-GUSxCiYs8
 
 ## Installation
 
